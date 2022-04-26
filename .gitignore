@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# general
+.DS_Store
+
+# chess game pickle save file
+saved_state.pkl
